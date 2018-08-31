@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidDomInspection" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="AndroidElementNotAllowed" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintCustomError" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintCustomWarning" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="AndroidMissingOnClickHandler" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="AndroidNonConstantResIdsInSwitch" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="AndroidUnknownAttribute" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="ResourceType" enabled="true" level="MIXED" enabled_by_default="true" />
+    <inspection_tool class="XmlWrongFileType" enabled="true" level="MIXED" enabled_by_default="true" />
+  </profile>
+</component>
